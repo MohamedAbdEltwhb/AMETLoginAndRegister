@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AMETLoginAndRegister</string>
+
+    <string name="txt_Creare">Create </string>
+    <string name="txt_Account">Account</string>
+
+    <string name="email_hent">Email</string>
+    <string name="passord_hent">Passord</string>
+    <string name="re_passord_hent">Re-enterPassord</string>
+    <string name="f_name_hent">F-name</string>
+    <string name="l_name_hent">L-name</string>
+    <string name="phone_hent">PhoneNumber</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="login_ptn">Log In</string>
+    <string name="SignUp_ptn">Sign Up</string>
+
+    <string name="link_signin">Sign In</string>
+    <string name="txt_alreadyHaveAccount">Already have an account?</string>
+
+    <string name="txt_amet">AMET </string>
+    <string name="txt_app">APP</string>
+
+    <string name="txt_sign">Sign </string>
+    <string name="txt_in">In</string>
+
+    <string name="txt_up">Up</string>
+
+    <string name="txt_SignUpForFree0">Sign Up For Free</string>
+
+
+    <string name="hide_txt">Hide</string>
+    <string name="show_txt">Show</string>
+</resources>
